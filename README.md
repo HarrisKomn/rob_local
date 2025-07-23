@@ -6,10 +6,10 @@
 - Evaluation with Aurora Electromagnetic Tracking
 
 <p align="center">
-  <img src="docs/rob_local.gif" width="400" alt="Demo GIF">
+  <img src="docs/rob_local.gif" width="500" alt="Demo GIF">
 </p>
 <p align="center">
-  <img src="docs/rob_local_2.gif" width="400" alt="Demo GIF">
+  <img src="docs/rob_local_2.gif" width="500" alt="Demo GIF">
 </p>
 
 ## Installation 
