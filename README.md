@@ -1,9 +1,10 @@
 # Robot localization with monocular camera
 
 - SLAM-based method for monocular image based localization
-- Single camera of 1.05mm diameter
+- Single camera of 1.05mm diameter 
+- Camera calibration (estimation of intrinsic parameters)
 - Textureless environment
-- Evaluation with Aurora Electromagnetic Tracking
+- Evaluation with Aurora Electromagnetic Tracking and 3D CAD points
 
 <p align="center">
   <img src="docs/rob_local.gif" width="500" alt="Demo GIF">
